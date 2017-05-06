@@ -7,4 +7,15 @@
     <string name="numeroDos">Numero Dos</string>
     <string name="error_numero_uno">Digite el numero uno</string>
     <string name="error_numero_dos">Digite el numero dos</string>
+    <string name="error_numero_dos_division">El denominador no puede ser zero</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+    <string-array name="opciones">
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
 </resources>
