@@ -3,4 +3,8 @@
     <string name="titulo">Calculadora</string>
     <string name="calcular">Calcular</string>
     <string name="borrar">Borrar</string>
+    <string name="numeroUno">Numero Uno</string>
+    <string name="numeroDos">Numero Dos</string>
+    <string name="error_numero_uno">Digite el numero uno</string>
+    <string name="error_numero_dos">Digite el numero dos</string>
 </resources>
